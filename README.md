@@ -1,4 +1,4 @@
-# Today We Learned Flutter!
+# Today We Learned Rails!
 
 [![AUTHOR](https://img.shields.io/badge/author-gmlwo530-blue)](https://github.com/gmlwo530)
 [![LICENSE](https://img.shields.io/github/license/today-we-learned-korea/rails)](https://github.com/today-we-learned-korea/rails/blob/master/LICENSE)
