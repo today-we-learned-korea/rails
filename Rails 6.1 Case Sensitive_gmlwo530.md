@@ -49,7 +49,7 @@ WHERE `users`.`name` = BINARY 'maru'
   - [https://www.w3schools.com/sql/trymysql.asp?filename=trysql_func_mysql_binary3](https://www.w3schools.com/sql/trymysql.asp?filename=trysql_func_mysql_binary3)
 
 <br><br><br>
-객체가 담겨 있는 `user`를 저장 했을 때 문제가 생긴다.
+객체가 담겨 있는 `user`를 저장해보자
 
 ```ruby
 
